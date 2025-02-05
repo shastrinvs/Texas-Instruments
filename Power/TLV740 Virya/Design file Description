@@ -1,0 +1,26 @@
+Product Brief
+-------------
+TLV740 Virya is an affordable,ultra portable,power supply that provides fixed outputs
+of 3.3V/2.8V/1.8V from a 5V input. 5V input is provided by a micro USB cable or a 2 pin header.
+The input power sources are protected with a blocking diode.
+
+Board Features
+---------------
+1. USB powered or 2 pin header powered.
+2. Fixed output voltages  of 3.3V/2.8V/1.8V [ based on the TLV740 part that is mounted, see IC datasheet for more details]
+3. Ultra portable, very affordable, provides upto 300mA current.
+4. Reverse polarity protection
+5. Power LED indication
+6. Technical support, design customisation, services provided by 365 Design - www.365designs.in
+
+Each Folder has below
+PDF 
+STEP 
+Schematic
+Pick and Place
+Schematic file in diptrace format
+PCB file in diptrace format
+Gerber
+BOM
+JPEG
+
