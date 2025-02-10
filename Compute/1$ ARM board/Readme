@@ -1,1 +1,10 @@
 This folder contains the complete design files of the 1$ ARM board based on MSPM0C1104 cortex M0+ from TI
+
+The board is powered by USB or 5V from a 2 pin header
+It has on-board RESET switch and power LED indication.
+The SWD pins are provided and indicated for easy connection to a TI Launchpad debugger.
+Support Zero Code platform based on TI.
+Mounting holes for supporting enclosure, fixture or cable tie connection use cases.
+TLV740P LDO from TI provides an output of 3.3V, 300mA - enough for most embedded hardware use cases.
+Board supports both SOT23 and WSON packages of the MSPM0C1103 MCU, adding more flexibility in the design.
+Technical support, customisation in hardware, firmware or product design provided by 365 Designs at www.365designs.in
