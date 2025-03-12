@@ -1,0 +1,12 @@
+This board is based on MSPM0C1104CYR, the smallest microcontroller from Texas Instruments,
+designed as a postage stamp with castellation and thru hole for developers using breadboard 
+
+World's smallest board in postage Stamp formfactor : 10mmx10mm
+
+Salient features of the board
+On-board 3.3V LDO, can take 5V input
+Easy evaluation of MSPM0C1104CYR, with all IO and debug pins brought out to headers.
+Supports both castellation and thru hole for both SMD type soldering and breadboard 
+Single mounting hole provided for fixing the board via a cable tie or screw
+Open source, FREE to download and use.
+Design customisation, hardware and firmware support provided by 365 Designs, www.365designs.in
